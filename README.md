@@ -1,4 +1,6 @@
-👋 Hi, I'm Priscilla Yamoah!
+👋 Hi,
+
+I'm Priscilla Yamoah!
 🌐 Cybersecurity Analyst | Digital Forensics | Network Security
 🎓 Master’s student in Cyber Forensics and Security at the Illinois Institute of Technology
 🔐 Passionate about threat intelligence, ethical hacking, incident response, and cyber-physical systems security
